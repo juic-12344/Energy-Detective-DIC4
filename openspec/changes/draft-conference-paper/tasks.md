@@ -17,6 +17,6 @@
 - [x] 3.2 Validate this OpenSpec change with strict validation and record status.
 - [x] 3.3 Package the source for direct Overleaf ZIP import and prepare DIC4 navigation.
 - [x] 3.4 Create a separate GitHub repository (Energy-Detective-DIC4); do not push to DIC3.
-- [ ] 3.4a Commit the manuscript and OpenSpec files to the new repository and verify repository contents.
+- [x] 3.4a Commit the manuscript and OpenSpec files to the new repository and verify repository contents.
 - [ ] 3.5 Import the ZIP into an authenticated Overleaf account and verify online compilation.
 - [ ] 3.6 Confirm the English author names and use the live Overleaf project URL for course submission, if required.

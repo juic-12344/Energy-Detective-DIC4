@@ -20,7 +20,7 @@ openspec validate draft-conference-paper --strict
 
 ## Status
 
-Four-page IEEE conference draft compiled locally; strict OpenSpec validation passed. Experiments remain planned, not performed. This is the independent DIC4 repository. Overleaf project import and author-name confirmation are pending. The manuscript was prepared from DIC3 sources retrieved through GitHub MCP.
+Four-page IEEE conference draft compiled locally; strict OpenSpec validation passed. Experiments remain planned, not performed. This is the independent public DIC4 repository. The manuscript was prepared from DIC3 sources retrieved through GitHub MCP. Overleaf project import and author-name confirmation are pending.
 
 ## Research provenance
 
